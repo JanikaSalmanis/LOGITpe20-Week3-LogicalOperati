@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\bin\Debug\netcoreapp3.1\LoginFormRefactored.exe
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\bin\Debug\netcoreapp3.1\LoginFormRefactored.deps.json
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\bin\Debug\netcoreapp3.1\LoginFormRefactored.runtimeconfig.json
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\bin\Debug\netcoreapp3.1\LoginFormRefactored.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\bin\Debug\netcoreapp3.1\LoginFormRefactored.dll
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\bin\Debug\netcoreapp3.1\LoginFormRefactored.pdb
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\obj\Debug\netcoreapp3.1\LoginFormRefactored.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\obj\Debug\netcoreapp3.1\LoginFormRefactored.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\obj\Debug\netcoreapp3.1\LoginFormRefactored.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\obj\Debug\netcoreapp3.1\LoginFormRefactored.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\obj\Debug\netcoreapp3.1\LoginFormRefactored.dll
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\obj\Debug\netcoreapp3.1\LoginFormRefactored.pdb
+C:\Users\opilane\source\repos\Week3LogicalOperators\LoginFormRefactored\obj\Debug\netcoreapp3.1\LoginFormRefactored.genruntimeconfig.cache
